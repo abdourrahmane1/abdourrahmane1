@@ -1,0 +1,39 @@
+.violet{
+    background-color:#9D95C6 ;
+}
+.vertbleu{
+    background-color: #A3D9C9;
+}
+.vert{
+    background-color: #CDEBC8 ;
+}
+.jauneclaire{
+    background-color: #F0F9C1;
+}
+.jaune{
+    background-color: #FEECB9;
+}
+.bleu{
+    background-color: #84B8D7;
+}
+.orangeclaire{
+    background-color:#FECE9F;
+}
+.orang{
+    background-color: #F7A68E;
+}
+.rose{
+    background-color: #E58A95;
+}
+.rouge{
+    background-color:#C5678E ;
+}
+body{
+   font-size: 0.9vw;
+}
+td{
+    text-align: center;
+
+}
+
+
